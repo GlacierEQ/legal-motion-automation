@@ -1,0 +1,38 @@
+{
+  "compel": {
+    "title": "MOTION TO COMPEL DISCOVERY",
+    "introduction": "Plaintiff Casey Lee Del Carpio Barton hereby moves this Honorable Court for an Order compelling Defendant to provide complete and adequate responses to discovery requests previously served.",
+    "background": "On [DATE], Plaintiff served comprehensive discovery requests upon Defendant. Despite the expiration of the response deadline, Defendant has failed to provide complete, adequate, or timely responses to these critical discovery requests.",
+    "legal_standard": "Hawaii Family Court Rules Rule 26 and Rule 37 provide the framework for discovery in family court proceedings. Rule 37(a) permits a party to move for an order compelling discovery when an opposing party fails to respond adequately to discovery requests.",
+    "argument": "Defendant's responses are inadequate and evasive. The requested information is necessary for the proper adjudication of custody and support matters. Defendant's failure to comply prejudices Plaintiff's ability to present his case.",
+    "conclusion": "The evidence clearly demonstrates Defendant's failure to comply with discovery obligations.",
+    "relief": "grant this Motion and order Defendant to provide complete responses to all outstanding discovery requests within ten (10) days of this Order."
+  },
+  "sanctions": {
+    "title": "MOTION FOR SANCTIONS",
+    "introduction": "Plaintiff respectfully moves this Court for sanctions against Defendant for willful violations of court orders and discovery obligations.",
+    "background": "Despite multiple court orders and deadlines, Defendant has repeatedly failed to comply with discovery obligations and court directives.",
+    "legal_standard": "Hawaii Family Court Rules Rule 37(b) authorizes sanctions for failure to comply with discovery orders. The court may impose various sanctions including striking pleadings, prohibiting evidence, or finding contempt.",
+    "argument": "Defendant's pattern of non-compliance constitutes willful disregard of court authority and prejudices Plaintiff's rights. Sanctions are necessary to ensure compliance and protect the integrity of the judicial process.",
+    "conclusion": "Defendant's conduct warrants immediate sanctions to preserve the court's authority and ensure fair proceedings.",
+    "relief": "impose appropriate sanctions against Defendant, including but not limited to striking deficient pleadings and compelling immediate compliance with all outstanding orders."
+  },
+  "modify": {
+    "title": "MOTION TO MODIFY CUSTODY AND VISITATION",
+    "introduction": "Plaintiff moves this Court for modification of the existing custody and visitation arrangement based on substantial changes in circumstances affecting the best interests of the minor child.",
+    "background": "Since the entry of the current custody order, substantial changes have occurred that materially affect the welfare and best interests of the minor child, [CHILD_NAME].",
+    "legal_standard": "Hawaii Revised Statutes § 571-46 governs custody modifications. A court may modify custody when there has been a material change in circumstances and modification serves the best interests of the child.",
+    "argument": "The evidence demonstrates material changes in circumstances that negatively impact the child's welfare. These changes include [SPECIFIC_CHANGES]. Modification is necessary to protect the child's best interests.",
+    "conclusion": "The substantial evidence supports modification of the existing custody arrangement.",
+    "relief": "modify the existing custody and visitation order to better serve the best interests of the minor child."
+  },
+  "emergency": {
+    "title": "EMERGENCY MOTION FOR IMMEDIATE RELIEF",
+    "introduction": "Plaintiff respectfully moves this Court for emergency relief based on immediate threats to the safety and welfare of the minor child.",
+    "background": "Urgent circumstances have arisen that pose an immediate risk to the child's safety and welfare, requiring immediate court intervention.",
+    "legal_standard": "Hawaii Family Court Rules permit emergency relief when immediate harm to a child is threatened. The court has broad authority to protect children from imminent danger.",
+    "argument": "The evidence establishes clear and present danger to the child's welfare. Immediate intervention is necessary to prevent irreparable harm.",
+    "conclusion": "The urgent circumstances require immediate court action to protect the child.",
+    "relief": "grant immediate emergency relief to protect the safety and welfare of the minor child."
+  }
+}
